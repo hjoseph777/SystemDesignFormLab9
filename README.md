@@ -22,7 +22,7 @@ This project demonstrates a complete Canadian Census Form implementation with Re
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://canadian-census-form.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-form-lab9.vercel.app/)
 
 *Experience the Canadian Census Form application live*
 
