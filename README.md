@@ -26,8 +26,29 @@ This project demonstrates a complete Canadian Census Form implementation with Re
 
 *Experience the Canadian Census Form application live*
 
+## 📸 Application Demo
 
-## Important: Where your form code lives
+Experience the Canadian Census Form through these interactive screenshots showcasing the complete user workflow:
+
+### 1. Main Census Form Interface
+![Main Census Form](Images/mainscreen1.png)
+*Professional government-style form with Canadian provinces, postal code validation, and intuitive layout*
+
+### 2. Interactive Help System  
+![Help System](Images/Helpmainscreen2.png)
+*Hover-activated help popup providing detailed instructions and Canadian-specific formatting requirements*
+
+### 3. Form Review & Editing
+![Edit and Review](Images/Editscreen3.png)
+*Comprehensive review screen allowing users to verify and edit their information before final submission*
+
+### 4. Submission Confirmation
+![Confirmation Screen](Images/Confirmationscreen4.png)
+*Professional confirmation screen with reference number and localStorage data persistence*
+
+---
+
+## Quick Start
 - The main census form component is in [`canadian-census-form/src/components/CensusForm.js`](canadian-census-form/src/components/CensusForm.js) with Canadian validation and help functionality
 - The form styling is in [`canadian-census-form/src/App.css`](canadian-census-form/src/App.css) with professional government appearance
 - Data is stored in browser localStorage for demonstration purposes
