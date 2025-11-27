@@ -1,0 +1,19 @@
+{
+  "name": "canadian-census-form",
+  "version": 2,
+  "builds": [
+    {
+      "src": "canadian-census-form/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "canadian-census-form/build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "canadian-census-form/build/$1"
+    }
+  ]
+}
